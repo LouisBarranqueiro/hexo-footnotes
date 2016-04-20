@@ -10,5 +10,5 @@ var content = [
 ].join('\n');
 
 module.exports = {
-  content:content
+  content: content
 };
