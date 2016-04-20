@@ -1,0 +1,25 @@
+{
+  "name": "hexo-footnotes",
+  "version": "0.1.0",
+  "description": "a plugin to support footnotes markdown syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LouisBarranqueiro@github.com/LouisBarranqueiro/hexo-footnotes.git"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "author": "Louis Barranqueiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisBarranqueiro/hexo-footnotes/issues"
+  },
+  "homepage": "https://github.com/LouisBarranqueiro/hexo-footnotes#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.5.0"
+  }
+}
