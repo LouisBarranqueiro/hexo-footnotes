@@ -1,7 +1,7 @@
 {
   "name": "hexo-footnotes",
   "version": "0.1.0",
-  "description": "a plugin to support markdown footnotes in Hexo post",
+  "description": "A plugin to support markdown footnotes in Hexo posts",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test/"
