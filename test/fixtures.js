@@ -6,9 +6,8 @@ var content = [
   '[^1]: basic footnote content',
   '[^3]: paragraph\nfootnote\ncontent',
   '',
-  '[^4]: footnote content 4'
+  '[^4]: footnote content with some [markdown](https://en.wikipedia.org/wiki/Markdown)4'
 ].join('\n');
 
-module.exports = {
-  content: content
-};
+module.exports = content;
+
