@@ -1,6 +1,6 @@
 {
   "name": "hexo-footnotes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A plugin to support markdown footnotes in Hexo posts",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "hexo",
-    "plugins",
+    "plugin",
     "footnotes"
   ],
   "author": "Louis Barranqueiro",
