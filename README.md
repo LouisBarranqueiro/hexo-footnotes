@@ -1,5 +1,7 @@
 # hexo-footnotes
 
+https://travis-ci.org/LouisBarranqueiro/hexo-footnotes.svg?branch=master
+
 A plugin to support markdown footnotes in Hexo posts
 
 ## Syntax
