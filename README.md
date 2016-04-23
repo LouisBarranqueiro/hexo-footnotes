@@ -1,8 +1,20 @@
 # hexo-footnotes
-
-![travis build status](https://travis-ci.org/LouisBarranqueiro/hexo-footnotes.svg?branch=master)
-
+![npm version](https://img.shields.io/npm/v/hexo-footnotes.svg) ![travis build status](https://img.shields.io/travis/LouisBarranqueiro/hexo-footnotes/master.svg) ![npm download/month](https://img.shields.io/npm/dm/hexo-footnotes.svg) ![npm download](https://img.shields.io/npm/dt/hexo-footnotes.svg)
 A plugin to support markdown footnotes in your Hexo blog posts
+
+## Installation
+
+```
+npm install hexo-footnotes --save
+```
+
+If Hexo detect automatically all plugins, that's all.  
+
+If that is not the case, register the plugin in your `_config.yml` file :
+```
+plugins:
+  - hexo-footnotes
+```
 
 ## Syntax
 
@@ -21,17 +33,3 @@ content
 ```
 #### Output
 ![footnotes](https://raw.githubusercontent.com/LouisBarranqueiro/hexo-footnotes/master/screenshot.png?token=AEfNWh_U1kEIyTb8euyeYHgEvmcXxXtrks5XIflWwA%3D%3D)
-
-## Installation
-
-```
-npm install hexo-footnotes --save
-```
-
-If Hexo detect automatically all plugins, that's all.  
-
-If that is not the case, register the plugin in your `_config.yml` file :
-```
-plugins:
-  - hexo-footnotes
-```
