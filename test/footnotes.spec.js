@@ -2,7 +2,7 @@
 var should = require('chai').should();
 /* eslint-enable no-unused-vars */
 var fixtures = require('./fixtures');
-var footnotes = require('./../lib/footnotes');
+var footnotes = require('./../src/footnotes');
 
 describe('footnotes', function() {
   it('render', function() {
