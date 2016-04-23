@@ -1,5 +1,6 @@
 # hexo-footnotes
-![npm version](https://img.shields.io/npm/v/hexo-footnotes.svg) ![travis build status](https://img.shields.io/travis/LouisBarranqueiro/hexo-footnotes/master.svg) ![npm download/month](https://img.shields.io/npm/dm/hexo-footnotes.svg) ![npm download](https://img.shields.io/npm/dt/hexo-footnotes.svg)
+![npm version](https://img.shields.io/npm/v/hexo-footnotes.svg?) ![npm dependencies](https://img.shields.io/david/LouisBarranqueiro/hexo-footnotes.svg) ![travis build status](https://img.shields.io/travis/LouisBarranqueiro/hexo-footnotes/master.svg) ![npm download/month](https://img.shields.io/npm/dm/hexo-footnotes.svg)
+  
 A plugin to support markdown footnotes in your Hexo blog posts
 
 ## Installation
