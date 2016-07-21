@@ -42,6 +42,25 @@ describe('footnotes', function() {
     );
   });
 
+  it('render (inline footnote)', function() {
+    var content = footnotes('hey buddy[^2](friend), it\'s a test');
+    content.should.equal(
+      'hey buddy<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>, it\'s a test' +
+      '<div id="footnotes">' +
+      '<hr>' +
+      '<div id="footnotelist">' +
+      '<ol style="list-style:none; padding-left: 0;">' +
+      '<li id="fn:2">' +
+      '<span style="display: inline-block; vertical-align: top; padding-right: 10px;">' +
+      '2.' +
+      '</span>' +
+      '<span style="display: inline-block; vertical-align: top;">' +
+      'friend' +
+      '</span>' +
+      '<a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>'
+    );
+  });
+
   it('render (with markdown content)', function() {
     var content = footnotes('hey buddy[^13], it\'s a test [^13]: basic footnote [content](http://example.com)');
     content.should.equal(
