@@ -1,7 +1,9 @@
 # hexo-footnotes
 [![npm version](https://img.shields.io/npm/v/hexo-footnotes.svg?style=flat-square)](https://www.npmjs.com/package/hexo-footnotes) [![npm dependencies](https://img.shields.io/david/LouisBarranqueiro/hexo-footnotes.svg?style=flat-square)](https://david-dm.org/LouisBarranqueiro/hexo-footnotes#info=dependencies&view=table) [![npm dev dependencies](https://img.shields.io/david/dev/LouisBarranqueiro/hexo-footnotes.svg?style=flat-square)](https://david-dm.org/LouisBarranqueiro/hexo-footnotes#info=devDependencies&view=table) [![travis build status](https://img.shields.io/travis/LouisBarranqueiro/hexo-footnotes/master.svg?style=flat-square)](https://travis-ci.org/LouisBarranqueiro/hexo-footnotes) [![npm download/month](https://img.shields.io/npm/dm/hexo-footnotes.svg?style=flat-square)](https://www.npmjs.com/package/hexo-footnotes) [![npm download/total](https://img.shields.io/npm/dt/hexo-footnotes.svg?style=flat-square)](https://www.npmjs.com/package/hexo-footnotes) [![gitter chat](https://img.shields.io/gitter/room/LouisBarranqueiro/hexo-footnotes.svg?style=flat-square)](https://gitter.im/LouisBarranqueiro/hexo-footnotes)
-  
+
 A plugin to support markdown footnotes in your Hexo blog posts
+
+**This plugin is no longer maintained, I recommend you to use [hexo-renderer-markdown-it](https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki/Advanced-Configuration) which supports footnotes and many more features.**
 
 ## Installation
 
