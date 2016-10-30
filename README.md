@@ -16,7 +16,7 @@ If Hexo detect automatically all plugins, that's all.
 If that is not the case, register the plugin in your `_config.yml` file :
 ```
 plugins:
-  - hexo-footnotes
+  hexo-footnotes
 ```
 
 ## Syntax
