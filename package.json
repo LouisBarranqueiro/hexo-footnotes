@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/LouisBarranqueiro/hexo-footnotes#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint-config-google": "^0.6.0",
-    "mocha": "^2.4.5"
+    "chai": "^4.2.0",
+    "eslint-config-google": "^0.11.0",
+    "mocha": "^5.2.0"
   },
   "dependencies": {
-    "markdown-it": "^7.0.0"
+    "markdown-it": "^8.4.2"
   }
 }
